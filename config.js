@@ -5,7 +5,7 @@ const CONFIG = {
     nếu hok vui thì kệ em 😙😙 Happy birthday byba !!!
     Bấm nút để nhận quà`,
     btnIntro: 'Nhận quà',
-        title: 'Chọn con tim hay là nghe lý trí chọn Iphone 14 rồ max hay là chọn Anh 🥰🥰',
+        title: 'Chọn con tim hay là nghe lý trí chọn Iphone 14 rồ max hay chọn anh 🥰🥰',
     desc: 'Suy nghĩ kĩ hả chọn nha em :))))))',
     btnYes: 'Vẫn cứ là thích anh <33',
     btnNo: 'Iphone 14 pro max :3',
